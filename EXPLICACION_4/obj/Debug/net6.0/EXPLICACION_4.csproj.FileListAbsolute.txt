@@ -1,0 +1,15 @@
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\bin\Debug\net6.0\EXPLICACION_4.exe
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\bin\Debug\net6.0\EXPLICACION_4.deps.json
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\bin\Debug\net6.0\EXPLICACION_4.runtimeconfig.json
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\bin\Debug\net6.0\EXPLICACION_4.dll
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\bin\Debug\net6.0\EXPLICACION_4.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.csproj.AssemblyReference.cache
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.AssemblyInfoInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.AssemblyInfo.cs
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.csproj.CoreCompileInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.dll
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\refint\EXPLICACION_4.dll
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\EXPLICACION_4.genruntimeconfig.cache
+C:\Users\jhon sebastian\Documents\SENA C#\EXPLICACION_4\obj\Debug\net6.0\ref\EXPLICACION_4.dll
